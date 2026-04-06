@@ -3,7 +3,8 @@ Dokumentation der LLM-gestützten Inhaltsanalyse von Nachhaltigkeitsmaßnahmen i
 
 Dieses Repository enthält die methodischen Grundlagen zur Masterarbeit:
 
-**[Titel Arbeit]**  
+**[Nachhaltigkeit(sstrategien) zwischen Governance und Implementierung: Eine LLM-gestützte Analyse der Regionen Tirol, Bozen-Südtirol und Graubünden
+]**  
 Frederik Düss, Leopold-Franzens-Universität Innsbruck, Institut für Geographie, 2026
 ## Inhalt
 
