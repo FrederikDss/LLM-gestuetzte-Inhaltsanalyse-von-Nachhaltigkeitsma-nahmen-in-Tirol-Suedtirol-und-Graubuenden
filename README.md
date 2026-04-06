@@ -9,7 +9,7 @@ Frederik Düss, Leopold-Franzens-Universität Innsbruck, Institut für Geographi
 
 | Datei | Beschreibung |
 |---|---|
-| `prompt.txt` | Extraktionsprompt zur Extraktion der Maßnahmen mit einem beliebigen LLM |
+| `prompt.txt` | Extraktionsprompt zur Extraktion der Maßnahmen mit einem beliebigen LLM und Link zu einem Custom-GPT für diese Aufgabe. |
 | `skript.py` | Python-Skript für die LLM-gestützte Klassifikation der extrahierten Maßnahmen (Python-Pipeline) |
 | `kategoriensystem.xlsx` | Vollständiges Kategoriensystem mit allen Variablen und Ausprägungen zur Klassifikation der Maßnahmen|
 
